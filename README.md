@@ -13,6 +13,8 @@
 - 🗣️ I am 16 years old 
 
 - 🔭 I am not programmer
+  
+- 😎 I am like anime
 
 </p>
 

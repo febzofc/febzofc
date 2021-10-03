@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img src="https://postimg.cc/QVsyv31V" />
+  <img src="https://i.postimg.cc/wxsYyxB5/20211003-185306.jpg" />
 
 </p>
 
@@ -16,6 +16,11 @@
   
 - 😎 I am like anime
 
+- 🔥 Don't forget to subscribe
+  
+- 📩 Send message for request/report bug
+  
+- ℹ️ Thanks
 </p>
 
 ------

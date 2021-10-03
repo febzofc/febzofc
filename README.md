@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img src="https://postimg.cc/QVsyv31V" />
+  <img src="https://i.postimg.cc/wxsYyxB5/20211003-185306.jpg" />
 
 </p>
 
@@ -13,8 +13,11 @@
 - 🗣️ I am 16 years old 
 
 - 🔭 I am not programmer
-  
-- 😎 I am like anime
+
+- 😴 Don't Forget To Subscrib
+
+- 📩 Send Message for reques/report bug
+
 
 </p>
 

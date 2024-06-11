@@ -6,49 +6,26 @@
 
 </p>
 
-<p align="center">
-```siapakah Febriansyah?```
+<h1 align="center">Hi 👋, I'm Febriansyah</h1>
+<h3 align="center">I'm just an idiot</h3>
 
-- 👼 My name is Febz
+- 🌱 I’m currently learning **Javascript, Golang, Java**
 
-- 🗣️ I am 16 years old 
+- 💬 Ask me about **Hobbies, Favorite anime**
 
-- 🔭 I am not programmer
-  
-- 😎 I am like anime
+- 📫 How to reach me **febzabotzofc@gmail.com**
 
-- 🔥 Don't forget to subscribe
-  
-- 📩 Send message for request/report bug
-  
-- ℹ️ Thanks
+- ⚡ Fun fact **I am a Body Builder**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/febriansyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="febriansyah" height="30" width="40" /></a>
+<a href="https://instagram.com/febriann_syh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="febriann_syh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/febzabotz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="febzabotz" height="30" width="40" /></a>
 </p>
 
-------
-
-### Connect with me ☎️
-<p align="center">
-
-  <a href="https://instagram.com/febriann_syh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-
-  <a href="https://wa.me/qr/7BT35T32O3YBO1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-  <a href="https://youtu.be/WgeItwiifYs"><img src="https://img.shields.io/badge/YouTube FebZabotz-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCpFnVdrnk2qQpE3qWUSZ_hw" /><br>
-
-
-
-  <a href="https://github.com/febzofc"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-
-  <a href="https://youtube.com/channel/UCpFnVdrnk2qQpE3qWUSZ_hw"><img src="https://img.shields.io/youtube/channel/subscribers/UCpFnVdrnk2qQpE3qWUSZ_hw?style=social" /> <br>
-
-  <a href="https://komarev.com/ghpvc/?username=febzofc&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=febzofc&color=blue&style=flat-square&label=Profile+View"></a>
-
-</p>
-
-
-
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 
 <!---
